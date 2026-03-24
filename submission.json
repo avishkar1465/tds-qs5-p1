@@ -1,0 +1,7 @@
+{
+  "prompt": "Extreme macro photography. A dense, lush, vibrant green protective layer of living moss. Right through the center is a massive, violent, jagged scar where the moss has been completely eradicated, leaving behind only sterile, suffocating white and grey ash. The ratio of green to ash is visually jarring. Cinematic lighting, deep shadows, 8k resolution, highly detailed texture. --no trees, flames, fire, graphs, charts, text, numbers, maps, globes",
+  "model": "Gemini 3 Flash Image",
+  "dataset_name": "Global Forest Watch - Tree Cover Loss Due to Fires",
+  "dataset_url": "https://www.globalforestwatch.org/dashboards/global/?category=fires",
+  "insight": "The planet's protective green canopy was violently ruptured in 2023, leaving a jagged, continent-sized scar of ash that cannot be easily healed."
+}
